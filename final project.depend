@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623319285 source:d:\code blok algorithme\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
